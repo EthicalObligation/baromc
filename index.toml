@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "minecraft-delight.pw.toml"
+hash = "a026c417b66f0a3ab5759e59e5d7f6cb66ace5076e431af0d13bddeab9e9f44e"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "1c0b0019300b6e06e87249b0f8843dbc6a0ed19e0c679320c69dda9775b7740f"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "193e5e0fadb2789064cee478ce095c5ad4d183400fa52e21e855166ca1e4ba05"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8683b197ce3d55ec135df70bee02764a95e6173da2f713c9414019bc30f65e27"
 metafile = true
 
 [[files]]
