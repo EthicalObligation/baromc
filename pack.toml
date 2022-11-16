@@ -1,0 +1,13 @@
+name = "Baromc"
+author = "EthicalObligation"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8c89ba48a2b0f2d30e8faf80fd95aaa49858b7d64f360b8e2fcdd9a69a2ddfb5"
+
+[versions]
+forge = "36.0.0"
+minecraft = "1.16.5"
