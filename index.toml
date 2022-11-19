@@ -1,13 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "1c0b0019300b6e06e87249b0f8843dbc6a0ed19e0c679320c69dda9775b7740f"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "7e0af47e33a6ccae31697552c1d1ff0158a68b8507daa0f030775c0cbdb4b4f4"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
 metafile = true
 
 [[files]]
@@ -76,6 +91,11 @@ hash = "8683b197ce3d55ec135df70bee02764a95e6173da2f713c9414019bc30f65e27"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "daf048f8ed72a037b1e74792a400a23d9635c7e85bf3dccecaabd7fb1f0a9c2d"
 metafile = true
@@ -96,6 +116,21 @@ hash = "57de3ed656e9ed22e69b69e84fbc63cf816aa508dcb3d3737f6c83c48b73e21c"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "a0e618f7fa6b546fa5007a681d49d475d50a421eff368bbe78c20e7f183be124"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "7fb57ea0506bf6ee41a93cb60745adc9d7ba1055ac14135ff311c5fdd3efbe44"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7314837dabec3633dfec3677d285544f99e2a506efc62d66445af5f3c6f00457"
 metafile = true
@@ -113,4 +148,9 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "dd539e79ef18e323e8ac996c19e2b85509c1c70aa91e08906fe8fee074bc8394"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
 metafile = true
