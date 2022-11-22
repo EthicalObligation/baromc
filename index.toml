@@ -91,11 +91,6 @@ hash = "a975909f91266046ee855bd6a1d17af650632c567197d385c3a549182833f783"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "5c67aceab7ac130edc7e7c810e917f17ad2747f35fb37f6166eb5e5524381035"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
 metafile = true
