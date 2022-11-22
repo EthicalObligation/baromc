@@ -21,6 +21,11 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "5f0f44a271c994a591bc78db95aec291548a9198a51706dfa6fa22b1af3bea88"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "7e0af47e33a6ccae31697552c1d1ff0158a68b8507daa0f030775c0cbdb4b4f4"
 metafile = true
@@ -81,6 +86,16 @@ hash = "9a643dece883f4eaa644aff19903b40b6ef2e2c5b9e8692c8c4c19d793618304"
 metafile = true
 
 [[files]]
+file = "mods/forestry.pw.toml"
+hash = "a975909f91266046ee855bd6a1d17af650632c567197d385c3a549182833f783"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "5c67aceab7ac130edc7e7c810e917f17ad2747f35fb37f6166eb5e5524381035"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
 metafile = true
@@ -101,6 +116,11 @@ hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
 metafile = true
 
 [[files]]
+file = "mods/linkingbooks.pw.toml"
+hash = "6504ccc38e644ebde1a688735049a7bdf9c46605dd7dbdcc99d5ac69fa5c3f1e"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
@@ -116,8 +136,18 @@ hash = "2e97620d26fcce46dd6b0b3680e813097646624af6528f41fbd3b715ef7d772c"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "9d1a3244c116d5c96132370f81a6713051eeefc2d94610829969d34ad26082e4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "9c01bb65003f3d5872401ed82967cec16dfe12abe6f9aa8876ab02b037859afb"
 metafile = true
 
 [[files]]
@@ -168,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
+metafile = true
+
+[[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "81dca1043b57e5ea5c961c75e6b805ba0150910621ce7bb119ccdcff96b15939"
 metafile = true
 
 [[files]]

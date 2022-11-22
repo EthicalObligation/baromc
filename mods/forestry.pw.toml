@@ -1,0 +1,13 @@
+name = "Forestry"
+filename = "forestry-1.16.5-6.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MHni9gjy/versions/6.0.14/forestry-1.16.5-6.0.14.jar"
+hash-format = "sha1"
+hash = "0f941843a2049cfac0f8f9d0a2c3915363773dbd"
+
+[update]
+[update.modrinth]
+mod-id = "MHni9gjy"
+version = "udTHyQte"

@@ -1,0 +1,13 @@
+name = "Linking Books"
+filename = "linkingbooks-1.16.5-forge-0.4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dsV4LBXb/versions/forge-0.4.0.2/linkingbooks-1.16.5-forge-0.4.0.2.jar"
+hash-format = "sha1"
+hash = "f4a7336c5ec32a3bb950e5e64310f454d7009252"
+
+[update]
+[update.modrinth]
+mod-id = "dsV4LBXb"
+version = "HEzXm0zd"
